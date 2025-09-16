@@ -58,10 +58,11 @@ Follow these steps to run the project locally:
    ```bash
    pip install -r requirements.txt
 
-5. **Launch Jupyter and open the main notebook or run the python file directly**
-▶️ Option 1: Run the Jupyter Notebook
-   ```bash
-   jupyter notebook notebooks/Bankruptcy_Poland.ipynb
+4. **Launch Jupyter and open the main notebook or run the Python file directly**
 
-▶️ Option 2: Quick Run (Script Mode)
-    python Main/Bankruptcy_Poland.py
+### ▶️ Option 1: Run the Jupyter Notebook
+```bash
+jupyter notebook notebooks/Bankruptcy_Poland.ipynb
+
+### ▶️ Option 2: Run the Jupyter Notebook
+python Main/Bankruptcy_Poland.py
