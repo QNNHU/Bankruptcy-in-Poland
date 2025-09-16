@@ -59,10 +59,12 @@ Follow these steps to run the project locally:
    pip install -r requirements.txt
 
 4. **Launch Jupyter and open the main notebook or run the Python file directly**
-
-### ▶️ Option 1: Run the Jupyter Notebook
+# ▶️ Option 1: Run the Jupyter Notebook
 ```bash
 jupyter notebook notebooks/Bankruptcy_Poland.ipynb
 
-### ▶️ Option 2: Run the Jupyter Notebook
+### ▶️ Option 2: Quick Run (Script Mode)
+If you just want to train and evaluate the model without opening Jupyter:
+
+```bash
 python Main/Bankruptcy_Poland.py
